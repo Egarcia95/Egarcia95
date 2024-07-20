@@ -18,7 +18,7 @@
 [<img align="left" alt="ErickGarcia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/@E-does-IT
-[linkedin]: https://www.linkedin.com/erickgarcia1995
+[linkedin]: https://www.linkedin.com/in/erickgarcia1995
 
 <!--
 **Egarcia95/Egarcia95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
