@@ -4,9 +4,11 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Certifications </h2>
+<h2> Certifications </h2>
 
 - [A+ Cerification]
+
+<h2>📺 Youtube Tutorials </h2>
 
 - [Complete Active Directory Home Lab Tutorial](https://www.youtube.com/watch?v=RRrA__UVKnM)
 
