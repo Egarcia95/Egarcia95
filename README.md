@@ -10,7 +10,7 @@
 
 <h2>📺 Youtube Tutorials </h2>
 
-- [Complete Active Directory Home Lab Tutorial](https://www.youtube.com/watch?v=RRrA__UVKnM)
+- [Complete Active Directory Home Lab Tutorial](https://www.youtube.com/watch?v=hMUvvQoUGRA&t))
 
 <h2> 🤳 Connect with me:</h2>
 
